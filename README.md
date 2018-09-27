@@ -1,12 +1,12 @@
-# My Progress - Uploading ... 
+# My LeetCode Progress - Uploading ... 
 <table>
   <tr>
     <th>Todo:</th>
-    <td>795</td>
+    <td>799</td>
   </tr>
   <tr>
     <th>Solved:</th>
-    <td>106 / 901</td>
+    <td>106 / 905</td>
   </tr>
   <tr>
     <th>Attempted:</th>
