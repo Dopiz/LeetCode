@@ -6,11 +6,7 @@
   </tr>
   <tr>
     <th>Solved:</th>
-    <td>106 / 905</td>
-  </tr>
-  <tr>
-    <th>Attempted:</th>
-    <td>0</td>
+    <td>111 / 925</td>
   </tr>
 </table>
 
